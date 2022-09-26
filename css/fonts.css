@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bungee Spice';
+    src: url('../fonts/BungeeSpice-Regular.eot');
+    src: url('../fonts/BungeeSpice-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BungeeSpice-Regular.woff2') format('woff2'),
+        url('../fonts/BungeeSpice-Regular.woff') format('woff'),
+        url('../fonts/BungeeSpice-Regular.ttf') format('truetype'),
+        url('../fonts/BungeeSpice-Regular.svg#BungeeSpice-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
